@@ -1,0 +1,23 @@
+Without rain
+Spoke commonwealth: Net = 5.07 * Discount + 33864.87
+Spoke makati: Net = 1.09 * Discount + 53819.66
+Spoke malate: Net = 2.50 * Discount + 37818.54
+
+Average Percentage Earned by Spoke:
+spoke
+commonwealth    19.423250 of 5.07 * Discount + 33864.87
+makati           2.978193 of 1.09 * Discount + 53819.66
+malate           3.376329 of 2.50 * Discount + 37818.54
+
+
+With rain
+Spoke commonwealth: Net = 3.52 * Discount + 36921.98
+Spoke makati: Net = 1.92 * Discount + 53597.56
+Spoke malate: Net = 3.58 * Discount + 33389.64
+
+Average Percentage Earned by Spoke:
+spoke
+commonwealth    19.856536 of 3.52 * Discount + 36921.98
+makati           8.142078 of 1.92 * Discount + 53597.56
+malate          12.331063 of 3.58 * Discount + 33389.64
+
